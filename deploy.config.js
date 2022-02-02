@@ -16,6 +16,7 @@ module.exports = {
 		production: {
 			user: 'root',
 			host: '8.142.77.25',
+			port: 22,
 			ref: 'origin/main',
 			repo: 'https://github.com/zzxswl/jspp_api.git',
 			path: '/www/jspp_api/production',
